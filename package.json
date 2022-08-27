@@ -1,5 +1,6 @@
 {
   "name": "travdays",
+  "node":"16.4.2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
